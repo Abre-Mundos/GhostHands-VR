@@ -1,0 +1,1 @@
+-project="../../../GhostHands/GhostHands.uproject"
